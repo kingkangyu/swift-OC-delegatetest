@@ -1,5 +1,5 @@
 # swift-OC-delegatetest
 
-Swift Objectiv-C 混编
+Swift Objective-C 混编
 
 delegate测试
